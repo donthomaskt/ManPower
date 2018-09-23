@@ -1,0 +1,12 @@
+<table width="1004px" height="400px" cellpadding="0" cellspacing="0" border="0">
+    <tr><td></td><td>ID</td><td>Name</td><td>Status</td><td>Start Date</td><td>End Date</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+    <tr><td><input type="button" value="View" style="background:#009900;color:#FFFFFF;cursor:pointer;margin-left:20px"/></td><td>123455</td><td>Albin george</td><td>Finished</td><td>10/20/2014 12:30 PM</td><td>10/20/2014 12:30 PM</td></tr>
+</table>

@@ -1,0 +1,54 @@
+/* CSS Document */
+body{
+	margin:0px;
+	text-align:justify;
+	color:#FFFFFF;
+        font-size:12px;
+	font-family:"Times New Roman", Times, serif;
+}
+#hedder_tabl{
+	min-width:900px;
+	border-bottom:2px #e37605 solid;
+}
+#hed_one{
+	width:150px;
+	color:#0099FF;
+	height:100%;
+	font-size:20px;
+	padding: 20px 5px;
+}
+#menu_one a{
+color: #e37605;
+text-shadow: 2px 2px 2px #000000;
+-webkit-text-shadow: 2px 2px 2px #000000;
+-moz-text-shadow: 2px 2px 2px #000000;
+text-decoration:none;
+padding: 0px 15px;
+font-size: 18px;
+width:150px;
+font-weight:bold;
+}
+
+#menu_one a:hover 
+{
+color: #FFFFFF;
+text-decoration: none;
+font-size: 18px;
+}
+#contrl_butt{
+margin-top:10px;
+margin-bottom: -200px;
+position:relative;
+z-index:3000;
+}
+
+#lean_overlay {
+    position: fixed;
+    z-index:5000;
+    top: 30px;
+    left: 30px;
+    height:400px;
+    width:600px;
+    background: #000;
+    display: none;
+}

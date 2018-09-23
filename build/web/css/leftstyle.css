@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body{
+	margin:0px;
+	text-align:justify;
+	color:#FFFFFF;
+        font-size:12px;
+	font-family:"Times New Roman", Times, serif;
+}
+#hdr_bg{
+    
+    background-image:url(../img/hdrr_bg.png);
+    background-repeat:repeat-x;
+    color:#CCCCCC;
+    padding:4px 10px;
+    font-weight:bold;
+    font-size:16px;
+}
